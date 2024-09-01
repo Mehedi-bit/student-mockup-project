@@ -1,0 +1,3 @@
+# ignore uploading node modules
+
+node_modules/
